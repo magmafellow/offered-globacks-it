@@ -1,0 +1,9 @@
+.popup.active {
+  display: flex;
+}
+
+.lock-scroll {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
